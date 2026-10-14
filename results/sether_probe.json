@@ -1,0 +1,327 @@
+{
+  "commit": "14ee74e2afca52c57f01ab43ee969db9d2429d0c",
+  "version": "0.7.1",
+  "scope": "Controlled literal Detector; no claim about built-in detector accuracy. UTF-8 byte chunks, not text chunks.",
+  "results": [
+    {
+      "kind": "identifier64",
+      "size": 1,
+      "setting": "default256",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier64",
+      "size": 1,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier64",
+      "size": 4,
+      "setting": "default256",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier64",
+      "size": 4,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier64",
+      "size": 16,
+      "setting": "default256",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier64",
+      "size": 16,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier64",
+      "size": 64,
+      "setting": "default256",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier64",
+      "size": 64,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier64",
+      "size": 256,
+      "setting": "default256",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier64",
+      "size": 256,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "phrase1024",
+      "size": 1,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": 1024,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "phrase1024",
+      "size": 1,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "phrase1024",
+      "size": 4,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": 1024,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "phrase1024",
+      "size": 4,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "phrase1024",
+      "size": 16,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": 1024,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "phrase1024",
+      "size": 16,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "phrase1024",
+      "size": 64,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": 1024,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "phrase1024",
+      "size": 64,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "phrase1024",
+      "size": 256,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": 1024,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "phrase1024",
+      "size": 256,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier9000",
+      "size": 1,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": 9000,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier9000",
+      "size": 1,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier9000",
+      "size": 4,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": 9000,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier9000",
+      "size": 4,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier9000",
+      "size": 16,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": 9000,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier9000",
+      "size": 16,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier9000",
+      "size": 64,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": 9000,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier9000",
+      "size": 64,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier9000",
+      "size": 256,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": 9000,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "identifier9000",
+      "size": 256,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": 0,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "unicode",
+      "size": 1,
+      "setting": "default256",
+      "exact": false,
+      "leaked_positions": null,
+      "replacement_characters": 12
+    },
+    {
+      "kind": "unicode",
+      "size": 1,
+      "setting": "length_bound",
+      "exact": false,
+      "leaked_positions": null,
+      "replacement_characters": 12
+    },
+    {
+      "kind": "unicode",
+      "size": 4,
+      "setting": "default256",
+      "exact": true,
+      "leaked_positions": null,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "unicode",
+      "size": 4,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": null,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "unicode",
+      "size": 16,
+      "setting": "default256",
+      "exact": true,
+      "leaked_positions": null,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "unicode",
+      "size": 16,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": null,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "unicode",
+      "size": 64,
+      "setting": "default256",
+      "exact": true,
+      "leaked_positions": null,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "unicode",
+      "size": 64,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": null,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "unicode",
+      "size": 256,
+      "setting": "default256",
+      "exact": true,
+      "leaked_positions": null,
+      "replacement_characters": 0
+    },
+    {
+      "kind": "unicode",
+      "size": 256,
+      "setting": "length_bound",
+      "exact": true,
+      "leaked_positions": null,
+      "replacement_characters": 0
+    }
+  ]
+}

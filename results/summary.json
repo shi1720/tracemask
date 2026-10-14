@@ -1,0 +1,89 @@
+{
+  "methods": {
+    "earliest": {
+      "trials": 2000,
+      "exact": 2000,
+      "leaking_trials": 0,
+      "leaked_positions": 0,
+      "overmasked_positions": 0,
+      "mean_delay": 15.678240393184945,
+      "max_pending": 255
+    },
+    "suffix": {
+      "trials": 2000,
+      "exact": 2000,
+      "leaking_trials": 0,
+      "leaked_positions": 0,
+      "overmasked_positions": 0,
+      "mean_delay": 15.67899159972973,
+      "max_pending": 255
+    },
+    "fixed_safe": {
+      "trials": 2000,
+      "exact": 2000,
+      "leaking_trials": 0,
+      "leaked_positions": 0,
+      "overmasked_positions": 0,
+      "mean_delay": 83.31349724835515,
+      "max_pending": 255
+    },
+    "fixed32": {
+      "trials": 2000,
+      "exact": 800,
+      "leaking_trials": 1200,
+      "leaked_positions": 165210,
+      "overmasked_positions": 0,
+      "mean_delay": 30.016166102647368,
+      "max_pending": 32
+    },
+    "chunk": {
+      "trials": 2000,
+      "exact": 138,
+      "leaking_trials": 1862,
+      "leaked_positions": 237888,
+      "overmasked_positions": 0,
+      "mean_delay": 0.0,
+      "max_pending": 0
+    },
+    "full": {
+      "trials": 2000,
+      "exact": 2000,
+      "leaking_trials": 0,
+      "leaked_positions": 0,
+      "overmasked_positions": 0,
+      "mean_delay": 336.481286618887,
+      "max_pending": 3117
+    }
+  },
+  "contrasts": {
+    "fixed_safe-earliest": {
+      "mean": 67.63525685517021,
+      "ci95": [
+        62.41521702555431,
+        72.75523860011964
+      ]
+    },
+    "suffix-earliest": {
+      "mean": 0.0007512065447876315,
+      "ci95": [
+        0.0003131358392323614,
+        0.0013815863793849267
+      ]
+    },
+    "full-earliest": {
+      "mean": 320.80304622570196,
+      "ci95": [
+        299.1223371789806,
+        342.9015947345249
+      ]
+    }
+  },
+  "documents": 400,
+  "total_trials": 12000,
+  "seconds": 8.872123209002893,
+  "machine": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "platform": "macOS-27.0.1-arm64-arm-64bit",
+    "processor": "arm"
+  }
+}

@@ -1,0 +1,20 @@
+test_all_partitions (tests.test_core.CoreTests.test_all_partitions) ... ok
+test_dictionary_specific_bound (tests.test_core.CoreTests.test_dictionary_specific_bound) ... ok
+test_exact_frontier_by_continuations (tests.test_core.CoreTests.test_exact_frontier_by_continuations) ... ok
+test_exhaustive_outputs (tests.test_core.CoreTests.test_exhaustive_outputs) ... ok
+test_lifecycle_and_overlap (tests.test_core.CoreTests.test_lifecycle_and_overlap) ... ok
+test_partitions_unicode_random (tests.test_core.CoreTests.test_partitions_unicode_random) ... ok
+test_every_byte_split (tests.test_sse.SSETests.test_every_byte_split) ... ok
+test_incomplete_and_invalid (tests.test_sse.SSETests.test_incomplete_and_invalid) ... ok
+test_real_http_streams (tests.test_sse.SSETests.test_real_http_streams) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 1.352s
+
+OK
+all partition cases: 10922
+dictionary-specific bound cases: 107
+continuation frontier cases: 13335
+exhaustive output cases: 32193
+SSE every-byte partition cases: 594
+local HTTP integration streams: 128

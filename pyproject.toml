@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tracemask"
+version = "0.1.0"
+description = "Earliest-release literal masking with reproducible research artifacts"
+requires-python = ">=3.10"
+authors = [{name = "Shivam Gupta", email = "shivam1720406@gmail.com"}]
+license = {text = "MIT"}
+
+[tool.setuptools.packages.find]
+include = ["tracemask*"]
