@@ -38,3 +38,7 @@ Shivam Gupta is an applied AI engineer and founder of Siloed. He builds AI-enabl
 - Solo presenter. The user selected an on-site Stage Talk as the fallback because there are no confirmed co-panelists.
 - No speaking recordings or co-presenters have been invented.
 - The linked manuscript is supporting material. This CFP is not a paper-publication submission.
+
+## Delivery status
+
+Submitted on 14 October 2026 through the user-provided form. Confirmation: "Your response has been recorded." Decision pending. The live form retains its 2026 heading but explicitly accepts 2027 proposals; the pitch identifies the intended edition. See `submission_status.json`.

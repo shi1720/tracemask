@@ -1,0 +1,20 @@
+{
+  "status": "submitted; decision pending",
+  "date": "2026-10-14",
+  "timezone": "Asia/Kolkata",
+  "speaker": "Shivam Gupta",
+  "contact": "shivam1720406@gmail.com",
+  "title": "Redact Before Release: Literal Secrets in Streaming AI Gateways",
+  "format": "Stage Talk · 40-55 min · Day 2 on-site (main format)",
+  "form_track": "Cybersecurity",
+  "intended_edition": "Code Europe AI 2027",
+  "intended_2027_track": "AI Security, Safety & Governance",
+  "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSfTxVRpbYwVtDOarbfa32w0HFPpDXFh-wxMO4grQBpAjOOhgA/viewform",
+  "confirmation_text": "Your response has been recorded.",
+  "form_heading": "Become a speaker at Code Europe 2026",
+  "edition_note": "The live form explicitly states it is collecting 2027 proposals. The committee pitch identifies the 2027 edition. The receipt confirms form delivery, not acceptance or organizer assignment.",
+  "artifact_commit_at_submission": "638dff815e929f6b7714c78d955d389c0ece9c62",
+  "paper_sha256": "3b815cb65cec9f95971500f865d63fd75a8a51015c71bcc291149f6354b1be3a",
+  "github_ci": "https://github.com/shi1720/tracemask/actions/runs/38544614925",
+  "ci_conclusion": "success"
+}
